@@ -9,7 +9,7 @@
   * [database](#databse)
   * [dbms](#dbms)
  * [Details](#details)
-* [The Team](#the-team)
+
 
 ## Features
 * [Login/Registration and User Authentication](#Login-Registration-and-User-Authentication)
